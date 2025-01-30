@@ -1,2 +1,2 @@
-*Kalkulator BMI (Body Mass Index) - Fundamental Course Assigment RevoU
+*Kalkulator BMI (Body Mass Index) - Fundamental Course Assigment RevoU*
 Kalkulator BMI ini dirancang untuk memberikan informasi mengenai kesehatan tubuh berdasarkan perhitungan Body Mass Index (BMI). Aplikasi ini memungkinkan pengguna untuk dengan mudah menghitung BMI mereka dengan memasukkan berat badan, tinggi badan, usia, dan jenis kelamin, sehingga mereka dapat mengetahui status berat badan mereka.
